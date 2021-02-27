@@ -12,7 +12,7 @@ This app helps the user select the answer choice of the question and get to know
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src=![Flashcard](https://user-images.githubusercontent.com/65740643/109375383-53b31f80-788a-11eb-9ff9-04b6fae50d4e.gif) width=200><br>
 
 
 
